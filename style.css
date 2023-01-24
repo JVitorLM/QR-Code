@@ -60,13 +60,13 @@ body {
 @media screen and (min-width: 1440px) {
     .container {
         width: 30%;
-        margin: 15vh 0 1em 58vh;
-
+        margin: 9vh 0 1em 70vh;
     }
     .qrcode {
         justify-content: center;
     }
     .attribution {
         width: 1440px;
+        text-align: center;
     }
 }
